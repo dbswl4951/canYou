@@ -15,13 +15,6 @@ CanYou
 - JavaScript, JQuery, AJAX
 - d3.js
 
-
-## 설계 다이어그램
-![image](https://user-images.githubusercontent.com/39665611/108176404-55bc0680-7145-11eb-8b13-1f21dab5896b.png)
-
-![image](https://user-images.githubusercontent.com/39665611/108176453-62d8f580-7145-11eb-906e-22f3c1c2a62a.png)
-
-
 ## 실행 화면
 ![image](https://user-images.githubusercontent.com/39665611/108176486-6ec4b780-7145-11eb-8f68-674eb9fbfa61.png)
 
